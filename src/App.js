@@ -18,7 +18,11 @@ function App() {
     fetchData()
   }, []);
 
-  useEffect(() => {
+  // useEffect(() => {
+
+  // }, [query]);
+
+  function getData() {
     if (query.trim() === "") {
       return;
     }
@@ -29,15 +33,14 @@ function App() {
       }
     }
     fetchData()
-  }, [query]);
-
-
+  }
 
   return (
     <>
 
       <div className="input-parent">
         <input type="text" placeholder="Search your image here.." onChange={(e) => setInput(e.target.value)} />
+        <button onClick={getData}>Search</button>
       </div>
 
       {imgList.length === 0 ? <h2>No images found</h2> : null}

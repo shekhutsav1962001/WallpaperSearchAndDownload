@@ -14,3 +14,11 @@ img{
 a{
   text-decoration: none;
 }
+
+button{
+  padding: 10px;
+  background-color: #0a192f;
+  border: none;
+  outline: none;
+  color: white;
+}
