@@ -2,7 +2,7 @@
 
 ### Search Wallpaper And Download
 
-### Live At  = <a href="https://shekhutsav1962001.github.io/WallpaperSearchAndDownload/">vie</a>
+### Live At  = <a href="https://shekhutsav1962001.github.io/WallpaperSearchAndDownload/">view</a>
 
 This project is based on unsplash API . You can search for wallpaper and download it by clicking on image..
  
