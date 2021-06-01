@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WallpaperSearchAndDownload/static/css/main.b81c3093.chunk.css",
+    "main.js": "/WallpaperSearchAndDownload/static/js/main.02e6defc.chunk.js",
+    "main.js.map": "/WallpaperSearchAndDownload/static/js/main.02e6defc.chunk.js.map",
+    "runtime-main.js": "/WallpaperSearchAndDownload/static/js/runtime-main.386d0724.js",
+    "runtime-main.js.map": "/WallpaperSearchAndDownload/static/js/runtime-main.386d0724.js.map",
+    "static/css/2.9dc35fa5.chunk.css": "/WallpaperSearchAndDownload/static/css/2.9dc35fa5.chunk.css",
+    "static/js/2.9832fd02.chunk.js": "/WallpaperSearchAndDownload/static/js/2.9832fd02.chunk.js",
+    "static/js/2.9832fd02.chunk.js.map": "/WallpaperSearchAndDownload/static/js/2.9832fd02.chunk.js.map",
+    "index.html": "/WallpaperSearchAndDownload/index.html",
+    "static/css/2.9dc35fa5.chunk.css.map": "/WallpaperSearchAndDownload/static/css/2.9dc35fa5.chunk.css.map",
+    "static/css/main.b81c3093.chunk.css.map": "/WallpaperSearchAndDownload/static/css/main.b81c3093.chunk.css.map",
+    "static/js/2.9832fd02.chunk.js.LICENSE.txt": "/WallpaperSearchAndDownload/static/js/2.9832fd02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.386d0724.js",
+    "static/css/2.9dc35fa5.chunk.css",
+    "static/js/2.9832fd02.chunk.js",
+    "static/css/main.b81c3093.chunk.css",
+    "static/js/main.02e6defc.chunk.js"
+  ]
+}
